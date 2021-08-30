@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gavriil84=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
+
+Generated via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 
