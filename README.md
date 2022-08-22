@@ -1,7 +1,8 @@
 ### Hi there, I'm Gabriel 👋
+<h3>A Full-stack Developer </h3>
 
-### Test 
-<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Link</a>
+<h1>About me 💻</h1>
+- 🔭 I’m currently working on ...<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Courte-Client</a> | <a href="https://github.com/Gavriil84/Team-SpaceDuck-Backend">Courte-Server</a>
 
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
