@@ -26,8 +26,17 @@ local birds and endangered species.<br />
 By utilizing geo-location, users can identify birds they spot in the wild and add them to their personal virtual ‘beakpedia’ collection<br />
 where they can track their progress and unlock new features.<br />
 <br />
-Tech Stack: React.js | MongoDB | Mongoose | Express.js | Node.js
-<img src="https://user-images.githubusercontent.com/79692322/186017558-17b9e156-170f-4190-ab1f-c2f315be3201.png" />
+<b>Tech Stack:</b> React.js | MongoDB | Mongoose | Express.js | Node.js
+<img src="https://user-images.githubusercontent.com/79692322/186017558-17b9e156-170f-4190-ab1f-c2f315be3201.png" /><br />
+
+<h3><a href="https://github.com/ijaspreetbhatti/Team-Magpie-Scave">Scave</a></h3>
+Scave is a platform that utilizes geolocation API to donate and locate disposed items in the community. 
+The usees can create accounts to get access to list and view all items. In case they find something interesting,<br />
+they can claim the item and collect it later. Also, the app has a filter feature to help the users to find<br />
+the item they are looking for based on the category.<br />
+<br />
+<b>Tech Stack:</b> HTML | SCSS | JavaScript | PWA | Firebase | Webpack | JQuery
+<img src="https://user-images.githubusercontent.com/79692322/186021801-08e87588-c4f5-4100-9435-cbc3b0bb0ade.png"><br />
 
 
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark) <br />
