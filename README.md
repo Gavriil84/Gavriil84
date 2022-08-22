@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...Problem solving, Create user friendly interfaces, Develop stable and scalable apps <br />
 - 💻 You can check my portfolio ...<a href="https://gabriel-watanabe.com/">Here!</a> <br />
 - 📫 How to reach me: ...gabrielwt.canada@gmail.com <br />
-- ⚡ Fun fact: ...I love playing Tennis, Exploring nature and Traveling ✈️ <br />
+- ⚡ Fun fact: ...I love playing Tennis, Exploring nature and Traveling ✈️ <br /><br /><br />
 
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
