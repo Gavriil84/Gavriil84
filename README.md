@@ -17,7 +17,7 @@ The users can locate public tennis courts in Vancouver parks on the map and chec
 If no courts are available, the users have the option to join the queue and wait until the court is ready for them.<br />
 In case the users don't have anyone to play, they can use the pairing feature to find a player of their preferences.<br />
 <br />
-Tech Stack: React Native | Expo | NativeBase | GraphQL | Node.js | Express.js | AWS EC2
+<b>Tech Stack:</b> React Native | Expo | NativeBase | GraphQL | Node.js | Express.js | AWS EC2
 <img src="https://user-images.githubusercontent.com/79692322/186016047-62fcee1d-c37d-4329-91f4-7bcede08b051.png"/> <br />
 
 <h3><a href="https://www.picbeak.com/">Picbeak</a></h3>
