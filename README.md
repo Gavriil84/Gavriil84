@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Gabriel a Full-Stack Dev👋</h1>
+<h1 align="center">Hi there, I'm Gabriel a Full-Stack Dev👋</h1>
 
 <h1>About me 💻</h1>
 - 🔭 I’m currently working on ...<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Courte-Client</a> | <a href="https://github.com/Gavriil84/Team-SpaceDuck-Backend">Courte-Server</a> | <a href="https://github.com/olimarie21/Courte-landing-page">Courte Marketing Page</a> <br />
