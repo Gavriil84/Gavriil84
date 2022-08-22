@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...gabrielwt.canada@gmail.com <br />
 - ⚡ Fun fact: ...I love playing Tennis, Exploring nature and Traveling ✈️ <br />
 
-![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark)
+![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
 
 Generated via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
