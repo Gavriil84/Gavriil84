@@ -38,7 +38,8 @@ the item they are looking for based on the category.<br />
 <b>Tech Stack:</b> HTML | SCSS | JavaScript | PWA | Firebase | Webpack | JQuery
 <img src="https://user-images.githubusercontent.com/79692322/186021801-08e87588-c4f5-4100-9435-cbc3b0bb0ade.png"><br />
 
-<h2>Github Status 📈</h2>
+<h2>Github Status 📈</h2><br />
+
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
 
