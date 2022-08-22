@@ -13,12 +13,21 @@
 <h3><a href="https://www.courte.app/">Courte</a></h3>
 Courte is a mobile application that facilitates the use and sharing of public tennis courte with three primary feature,
 Explore, Play and Match.
-The users can locate public tennis courts in Vancouver parks on the map and check the court availability at a glance.
-If no courts are available, the users have the option to join the queue and wait until the court is ready for them.
-In case the users don't have anyone to play, they can use the pairing feature to find a player of their preferences.
+The users can locate public tennis courts in Vancouver parks on the map and check the court availability at a glance.<br />
+If no courts are available, the users have the option to join the queue and wait until the court is ready for them.<br />
+In case the users don't have anyone to play, they can use the pairing feature to find a player of their preferences.<br />
 <br />
-<img src="https://user-images.githubusercontent.com/79692322/186016047-62fcee1d-c37d-4329-91f4-7bcede08b051.png"/>
+Tech Stack: React Native | Expo | NativeBase | GraphQL | Node.js | Express.js | AWS EC2
+<img src="https://user-images.githubusercontent.com/79692322/186016047-62fcee1d-c37d-4329-91f4-7bcede08b051.png"/> <br />
 
+<h3><a href="https://www.picbeak.com/">Picbeak</a></h3>
+Picbeak is an application that provides educational information about region specific bird species, encouraging children to be aware of<br />
+local birds and endangered species.<br />
+By utilizing geo-location, users can identify birds they spot in the wild and add them to their personal virtual ‘beakpedia’ collection<br />
+where they can track their progress and unlock new features.<br />
+<br />
+Tech Stack: React.js | MongoDB | Mongoose | Express.js | Node.js
+<img src="https://user-images.githubusercontent.com/79692322/186017558-17b9e156-170f-4190-ab1f-c2f315be3201.png" />
 
 
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark) <br />
