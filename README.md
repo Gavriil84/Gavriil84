@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
 ### Test 
-<a href="www.yahoo.jp">Link</a>
+<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Link</a>
 
 ![Gavriil84's github stats](https://github-readme-stats.vercel.app/api?username=Gavriil84&count_private=true&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriil84&layout=compact&theme=onedark&langs_count=8)
