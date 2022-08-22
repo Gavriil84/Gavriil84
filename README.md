@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Gabriel 👋</h1>, <h3>A Full-stack Developer </h3>
 
 <h1>About me 💻</h1>
-- 🔭 I’m currently working on ...<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Courte-Client</a> | <a href="https://github.com/Gavriil84/Team-SpaceDuck-Backend">Courte-Server</a> | <a href="https://github.com/olimarie21/Courte-landing-page">Courte Marketing Page</a>
+- 🔭 I’m currently working on ...<a href="https://github.com/Gavriil84/Team-SpaceDuck-Frontend">Courte-Client</a> | <a href="https://github.com/Gavriil84/Team-SpaceDuck-Backend">Courte-Server</a> | <a href="https://github.com/olimarie21/Courte-landing-page">Courte Marketing Page</a> <br />
 - 🌱 I’m currently learning ...Redux, TypeScript
 - 👯 I’m looking for...A Front-end or Full-stack Developer job position
 - 🤔 I’m looking for help with ...Problem solving, Create user friendly interfaces, Develop stable and scalable apps
