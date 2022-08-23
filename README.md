@@ -27,7 +27,7 @@ By utilizing geo-location, users can identify birds they spot in the wild and ad
 where they can track their progress and unlock new features.<br />
 <br />
 <b>Tech Stack:</b> React.js | MongoDB | Mongoose | Express.js | Node.js
-<img src="https://user-images.githubusercontent.com/79692322/186017558-17b9e156-170f-4190-ab1f-c2f315be3201.png" /><br />
+<img width="350px" height="auto" src="https://user-images.githubusercontent.com/79692322/186017558-17b9e156-170f-4190-ab1f-c2f315be3201.png" /><br />
 
 <h3><a href="https://github.com/ijaspreetbhatti/Team-Magpie-Scave">Scave</a></h3>
 Scave is a platform that utilizes geolocation API to donate and locate disposed items in the community. 
