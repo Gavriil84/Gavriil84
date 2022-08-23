@@ -21,7 +21,7 @@ In case the users don't have anyone to play, they can use the pairing feature to
 <img src="https://user-images.githubusercontent.com/79692322/186016047-62fcee1d-c37d-4329-91f4-7bcede08b051.png"/> <br />
 
 <h3><a href="https://www.picbeak.com/">Picbeak</a></h3>
-Picbeak is an application that provides educational information about region specific bird species, encouraging children to be aware of<br />
+Picbeak is an application that provides educational information about region specific bird species, encouraging children to be aware of
 local birds and endangered species.<br />
 By utilizing geo-location, users can identify birds they spot in the wild and add them to their personal virtual ‘beakpedia’ collection<br />
 where they can track their progress and unlock new features.<br />
