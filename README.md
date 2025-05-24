@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gabriel a Web Developer👋</h1>
 
-<h2 style="font-size: 60px;">🚧This section is construction🚧</h2>
+<h2 style="font-size: 60px;">🚧This section is under construction🚧</h2>
 
 <h2>Github Status 📈</h2><br />
 
